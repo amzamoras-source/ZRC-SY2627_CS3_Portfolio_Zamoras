@@ -7,22 +7,22 @@
 
 #Python Code
 
-print("Hey there, let's determine your Chinese Zodiac Sign! Please input your birth year.")
+    print("Hey there, let's determine your Chinese Zodiac Sign! Please input your birth year.")
 
-def zodiac_sign():
-    zodiac_animals = {
-        0: "Monkey (猴 - Hóu)",
-        1: "Rooster (鸡 - Jī)",
-        2: "Dog (狗 - Gǒu)",
-        3: "Pig (猪 - Zhū)",
-        4: "Rat (鼠 - Shǔ)",
-        5: "Ox (牛 - Niú)",
-        6: "Tiger (虎 - Hǔ)",
-        7: "Rabbit (兔 - Tù)",
-        8: "Dragon (龙 - Lóng)",
-        9: "Snake (蛇 - Shé)",
-        10: "Horse (马 - Mǎ)",
-        11: "Goat (羊 - Yáng)"
+    def zodiac_sign():
+        zodiac_animals = {
+            0: "Monkey (猴 - Hóu)",
+            1: "Rooster (鸡 - Jī)",
+            2: "Dog (狗 - Gǒu)",
+            3: "Pig (猪 - Zhū)",
+            4: "Rat (鼠 - Shǔ)",
+            5: "Ox (牛 - Niú)",
+            6: "Tiger (虎 - Hǔ)",
+            7: "Rabbit (兔 - Tù)",
+            8: "Dragon (龙 - Lóng)",
+            9: "Snake (蛇 - Shé)",
+            10: "Horse (马 - Mǎ)",
+            11: "Goat (羊 - Yáng)"
     }
 
     while True:
@@ -37,4 +37,4 @@ def zodiac_sign():
             print(f"Your Chinese Zodiac Sign is: {animal}")
             break
 
-zodiac_sign()
+    <img width="1279" height="576" alt="Screenshot 2026-08-20 172637" src="https://github.com/user-attachments/assets/15e5b940-accc-4c88-9ad5-059eacbbeda8" />
