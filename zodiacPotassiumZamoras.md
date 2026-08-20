@@ -37,4 +37,4 @@
             print(f"Your Chinese Zodiac Sign is: {animal}")
             break
 
-    <img width="1279" height="576" alt="Screenshot 2026-08-20 172637" src="https://github.com/user-attachments/assets/15e5b940-accc-4c88-9ad5-059eacbbeda8" />
+   <img width="1279" height="576" alt="Screenshot 2026-08-20 172637" src="https://github.com/user-attachments/assets/de90ceb4-4caf-4ab4-86c2-2886df6e10ed" />
