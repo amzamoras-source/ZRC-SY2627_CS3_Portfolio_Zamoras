@@ -17,11 +17,14 @@ def zodiac_sign():
     }
 
     while True:
-        birth_year = int(input("Enter your birth year: "))
+        try:
+            birth_year = int(input("Enter your birth year: "))
+        except ValueError:
+            print("Invalid input. Please enter a numerical year.")
+            continue
         
         if birth_year < 1900:
             print("Please enter a valid birth year (1900 or later).")
-            break
         else:
             sign_key = birth_year % 12
             animal = zodiac_animals[sign_key]
@@ -29,5 +32,3 @@ def zodiac_sign():
             break
 
 zodiac_sign()
-
-
