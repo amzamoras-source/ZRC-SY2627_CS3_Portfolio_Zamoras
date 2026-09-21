@@ -5,3 +5,4 @@
 [Course Student Classes](<mapping.py>)
 [potassium_Zamoras](<potassium_Zamoras.py>)
 [Chinese Zodiac Sign](<zodiacPotassiumZamoras.py>)
+[ctskillsPotassiumGZA.md](<q1/ctskillsPotassiumGZA.md>)
