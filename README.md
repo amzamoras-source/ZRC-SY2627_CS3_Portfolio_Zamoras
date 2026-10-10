@@ -6,3 +6,8 @@
 [potassium_Zamoras](<potassium_Zamoras.py>)
 [Chinese Zodiac Sign](<zodiacPotassiumZamoras.py>)
 [ctskillsPotassiumGZA.md](<q1/ctskillsPotassiumGZA.md>)
+
+# Uploads of folder Zamoras_Encapsulation
+[Zamoras_Activity1](<Zamoras_Activity1.py>)
+[Zamoras_Activity2](<Zamoras_Activity2.py>)
+[Zamoras_Activity2](<Zamoras_Activity2.py>)
