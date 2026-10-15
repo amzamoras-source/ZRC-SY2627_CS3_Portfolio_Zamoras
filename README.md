@@ -16,3 +16,5 @@
 [Zamoras_Activity1](<Zamoras_Activity1.py>)
 [Zamoras_Activity2](<Zamoras_Activity2.py>)
 [Zamoras_Activity3](<Zamoras_Activity3.py>)
+
+# Added q2 activities (pt. 2) under official Q2 folder
