@@ -19,15 +19,29 @@ class Animal:
         print("The", self.name, "eats...")
 
 class Lion(Animal):
-   super().make_sound()
-   def make_sound(self):
-    print("The", self.name, "roars loudly!")
+    def make_sound(self):
+        print("The lion,", self.name, "roars loudly!")
 
-   def eat(self):
-    print("The", self.name, "eats fresh meat.")
-    
+    def eat(self):
+        print("The lion,", self.name, "eats fresh meat.")
 
 class Elephant(Animal):
+    def make_sound(self):
+        print("The elephant,", self.name, "trumpets!")
 
+    def eat(self):
+        print("The elephant,", self.name, "eats grass and fruits.")
 
 class Monkey(Animal):
+    def make_sound(self):
+        print("The monkey,", self.name, "chatters!")
+
+    def eat(self):
+        print("The monkey,", self.name, "eats bananas.")
+
+animals = [Lion("Simba"), Elephant("Dumbo"), Monkey("Perry")]
+
+for animal in animals:
+    animal.make_sound()
+    animal.eat()
+    print()
